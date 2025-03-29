@@ -1,0 +1,16 @@
+{
+	"prettier.bracketSameLine": true,
+	"editor.formatOnSave": false,
+	"astro.content-intellisense": false,
+	"prettier.singleAttributePerLine": false,
+	"prettier.useTabs": false,
+	"prettier.useEditorConfig": false,
+	"prettier.vueIndentScriptAndStyle": true,
+	"prettier.proseWrap": "preserve",
+	"prettier.semi": false,
+	"prettier.enable": true,
+	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+	"editor.guides.bracketPairs": true,
+	"breadcrumbs.enabled": false,
+	"breadcrumbs.icons": true
+}
