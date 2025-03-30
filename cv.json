@@ -1,34 +1,34 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Juan Bautista Padilla Caihuara",
+    "label": "Full Stack Developer con experiencia en la creación de aplicaciones móviles y web, especializado en Flutter y Laravel",
     "image": "https://avatars.githubusercontent.com/u/72109896?v=4",
-    "email": "miduga@gmail.com",
+    "email": "juanbpadillac@gmail.com",
     "phone": "+34 688888888",
     "url": "https://midu.dev",
     "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
     "location": {
       "address": "",
       "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "city": "Sucre",
+      "countryCode": "BO",
+      "region": "Bolivia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "juanbpadilla",
+        "url": "https://linkedin.com/in/juanbpadilla"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "JuancitoPadilla",
+        "url": "https://x.com/JuancitoPadilla"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "juanbpadilla",
+        "url": "https://github.com/juanbpadilla"
       }
     ]
   },
